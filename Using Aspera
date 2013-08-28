@@ -1,0 +1,5 @@
+/home1/01499/oakglade/.aspera/connect/bin/ascp 
+-i /home1/01499/oakglade/.aspera/connect/etc/asperaweb_id_dsa.putty 
+-QT -l600m 
+anonftp@ftp-trace.ncbi.nlm.nih.gov:/sra/sra-instant/reads/ByRun/sra/SRR/SRR561/SRR561488/SRR561488.sra 
+/scratch/01499/oakglade/hallii_sra/DOF11
