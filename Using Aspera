@@ -1,3 +1,6 @@
+#This is an example of using Aspera to download data from the 
+#NCBI Sequence Read Archive (SRA)
+
 /home1/01499/oakglade/.aspera/connect/bin/ascp 
 -i /home1/01499/oakglade/.aspera/connect/etc/asperaweb_id_dsa.putty 
 -QT -l600m 
